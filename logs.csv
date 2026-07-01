@@ -1,0 +1,6 @@
+timestamp,level,message,location
+2026-06-20 08:00:00,INFO,System started,Toronto
+2026-06-20 08:05:00,CRITICAL,Disk usage exceeded 95%,Toronto
+2026-06-20 08:10:00,WARNING,Memory usage high,Toronto
+2026-06-20 08:15:00,CRITICAL,Service unreachable,Toronto
+2026-06-20 08:20:00,INFO,Backup completed,Toronto

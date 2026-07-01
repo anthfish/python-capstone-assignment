@@ -1,0 +1,31 @@
+2026-06-28 22:20:43 [INFO] Script started
+2026-06-28 22:20:43 [INFO] Script finished
+2026-06-28 22:42:00 [INFO] Script started
+2026-06-28 22:49:51 [INFO] Script started
+2026-06-28 22:49:51 [INFO] Loaded 2 CRITICAL entries from logs.csv
+2026-06-28 22:49:51 [INFO] Script finished
+2026-06-28 23:06:49 [INFO] Script started
+2026-06-28 23:06:49 [INFO] Loaded 2 CRITICAL entries from logs.csv
+2026-06-28 23:06:49 [ERROR] HTTP error fetching weather: 401 Client Error: Unauthorized for url: http://api.weatherapi.com/v1/current.json?key=abc123&q=Toronto
+2026-06-28 23:06:49 [INFO] Script finished
+2026-06-28 23:08:11 [INFO] Script started
+2026-06-28 23:08:11 [INFO] Loaded 2 CRITICAL entries from logs.csv
+2026-06-28 23:08:11 [INFO] Weather fetched for Toronto: 24.3C, Partly cloudy
+2026-06-28 23:08:11 [INFO] Script finished
+2026-07-01 19:07:44 [INFO] Script started
+2026-07-01 19:07:44 [INFO] Loaded 2 CRITICAL entries from logs.csv
+2026-07-01 19:07:44 [INFO] Weather fetched for Toronto: 35.3C, Partly cloudy
+2026-07-01 19:07:44 [INFO] Weather fetched for Toronto: 35.3C, Partly cloudy
+2026-07-01 19:07:44 [INFO] CSV export written: report_20260701_190744.csv
+2026-07-01 19:07:44 [INFO] JSON export written: report_20260701_190744.json
+2026-07-01 19:07:44 [INFO] Weather fetched for Toronto: 35.3C, Partly cloudy
+2026-07-01 19:07:44 [INFO] Script finished
+2026-07-01 23:21:06 [INFO] Script started
+2026-07-01 23:21:06 [INFO] Loaded 2 CRITICAL entries from logs.csv
+2026-07-01 23:21:06 [INFO] Weather fetched for Toronto: 26.3C, Moderate or heavy rain with thunder
+2026-07-01 23:21:06 [INFO] Weather fetched for Toronto: 26.3C, Moderate or heavy rain with thunder
+2026-07-01 23:21:06 [INFO] CSV export written: report_20260701_232106.csv
+2026-07-01 23:21:06 [INFO] JSON export written: report_20260701_232106.json
+2026-07-01 23:21:06 [INFO] Zip created: output_20260701_232106.zip
+2026-07-01 23:21:06 [INFO] Weather fetched for Toronto: 26.3C, Moderate or heavy rain with thunder
+2026-07-01 23:21:06 [INFO] Script finished

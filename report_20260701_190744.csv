@@ -1,0 +1,3 @@
+timestamp,level,message,location,temp_c,condition
+2026-06-20 08:05:00,CRITICAL,Disk usage exceeded 95%,Toronto,35.3,Partly cloudy
+2026-06-20 08:15:00,CRITICAL,Service unreachable,Toronto,35.3,Partly cloudy

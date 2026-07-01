@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-06-20 08:05:00",
+        "level": "CRITICAL",
+        "message": "Disk usage exceeded 95%",
+        "location": "Toronto",
+        "temp_c": 35.3,
+        "condition": "Partly cloudy"
+    },
+    {
+        "timestamp": "2026-06-20 08:15:00",
+        "level": "CRITICAL",
+        "message": "Service unreachable",
+        "location": "Toronto",
+        "temp_c": 35.3,
+        "condition": "Partly cloudy"
+    }
+]
